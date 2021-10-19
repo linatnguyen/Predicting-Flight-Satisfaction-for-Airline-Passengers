@@ -1,6 +1,6 @@
 # Predicting-Flight-Satisfaction-for-Airline-Passengers
 
-## Completed: 10/25/2021
+## Completed: 10/18/2021
 
 ## Project Objective
 Our objective is to use data from an airline to predict whether a passenger was satisfied or unsatisfied.
