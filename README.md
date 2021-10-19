@@ -27,6 +27,7 @@ Data collected from an airline passenger satisfaction survey is used to determin
 
 ## Presentations and projects
 * [Python Code](https://github.com/linatnguyen/Predicting-Flight-Satisfaction-for-Airline-Passengers/blob/main/Technical%20report%20-%20Team%203.pdf)
+* [Business Powerpoint]()
 
 
 ## Original Data
