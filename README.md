@@ -26,7 +26,7 @@ Our objective is to use data from an airline to predict whether a passenger was 
 Data collected from an airline passenger satisfaction survey is used to determine whether passengers will be satisfied or unsatisfied, in order to improve satisfaction ratings. 
 
 ## Presentations and projects
-* [Python Code](https://github.com/linatnguyen/Predicting-Flight-Satisfaction-for-Airline-Passengers/blob/main/ADS505-Group3-Airline_Satisfaction.ipynb)
+* [Python Code](https://github.com/linatnguyen/Predicting-Flight-Satisfaction-for-Airline-Passengers/blob/main/Technical%20report%20-%20Team%203.pdf)
 
 
 ## Original Data
