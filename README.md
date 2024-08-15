@@ -12,13 +12,19 @@ Our objective is to use data from an airline to predict whether a passenger was 
 
 ### Methods
 * Data Exploration
+* * numpy, pandas
 * Pre-processing
+* * sklearn.preprocessing.MinMaxScaler
 * Data Visualization
-* Statistical modeling
+* * matplotlib.pyplot, seaborn
+* Classification Models
+* * Logistic Regression, Random Forest, Decision Tree, KNN, LDA, Bagging, AdaBoost
 * Data modeling metrics
+* * confusion matrix, accuracy score, gains chart
 
 ### Technologies
 * Python
+* Jupyter Notebook
 * Powerpoint
 * Word
 
